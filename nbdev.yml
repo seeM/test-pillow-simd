@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-pillow-simd"
+  site-url: "https://seem.github.io/test-pillow-simd"
+  description: "Testing a bug with pillow-simd and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/seem/test-pillow-simd"
